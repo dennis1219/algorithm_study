@@ -7,4 +7,4 @@ while True:
 
 print(f'입력받은 양수는 {no}입니다.')
 
-#De Morgan's law.
+#De Morgan's law. If not 2 digit number, makes the user input again.
