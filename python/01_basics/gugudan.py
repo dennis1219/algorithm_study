@@ -7,4 +7,4 @@ for i in range(1, 10):
 
 print('-' * 27)
 
-#Loop in loop.
+#Loop in loop. :3 is space inbetween when printing.
