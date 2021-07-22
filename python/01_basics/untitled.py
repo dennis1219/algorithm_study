@@ -2,4 +2,4 @@ import sys
 import itertools
 import math
 
-a = sys.stdin.readline()
+a = sys.stdin.readline().rstrip()
