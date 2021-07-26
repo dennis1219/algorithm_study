@@ -11,4 +11,4 @@ l = list()
 for i in range(a):
     while True:
         statistics.multimode('b','d','f')
-        statistics.median()
+        statistics.median(i)
