@@ -10,6 +10,6 @@ l = list()
 
 for i in range(a):
     while True:
-        statistics.multimode('b','d','f')
+        statistics.multimode()
         statistics.median(i)
         itertools.permutations()
