@@ -11,5 +11,7 @@ l = list()
 for i in range(a):
     while True:
         statistics.multimode()
-        statistics.median(i)
+        statistics.median()
         itertools.permutations()
+        itertools.combinations()
+        itertools.combinations_with_replacement()
