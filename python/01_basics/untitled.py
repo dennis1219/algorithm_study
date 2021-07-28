@@ -12,4 +12,4 @@ for i in range(a):
     while True:
         statistics.multimode('b','d','f')
         statistics.median(i)
-        itertools.permutations
+        itertools.permutations()
