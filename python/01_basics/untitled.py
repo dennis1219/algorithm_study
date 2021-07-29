@@ -15,3 +15,5 @@ for i in range(a):
         itertools.permutations()
         itertools.combinations()
         itertools.combinations_with_replacement()
+
+print()
