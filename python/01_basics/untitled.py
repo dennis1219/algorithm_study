@@ -16,4 +16,4 @@ for i in range(a):
         itertools.combinations()
         itertools.combinations_with_replacement()
 
-print(l + )
+print(l + a)
