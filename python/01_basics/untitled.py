@@ -17,3 +17,5 @@ for i in range(a):
         itertools.combinations_with_replacement()
 
 print(l + a + b + c)
+
+#
